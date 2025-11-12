@@ -1,5 +1,4 @@
-# NIYOKURI-Berenice-27249-plsql-collections-records-goto
-Warehouse Stock Check PL/SQL 
+# Warehouse Stock Check PL/SQL
 
 This PL/SQL script demonstrates how to manage and display warehouse product information using records, nested tables, and loops in Oracle PL/SQL.
 It also calculates the total stock value across multiple products while skipping defective products (those with invalid or negative quantities) using a GOTO statement.
